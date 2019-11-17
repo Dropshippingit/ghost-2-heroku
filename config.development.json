@@ -1,8 +1,8 @@
 {
-  "url": "http://localhost:2368/",
+  "url": "https://ug-mmo.herokuapp.com/",
   "server": {
-    "port": 2368,
-    "host": "127.0.0.1"
+    "port": 5432,
+    "host": "ec2-23-23-195-205.compute-1.amazonaws.com"
   },
   "database": {
     "client": "sqlite3",
